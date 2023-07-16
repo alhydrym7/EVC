@@ -46,9 +46,9 @@ https://github.com/alhydrym7/EVC_with_Open-cv/assets/50909741/0029f825-1b63-4874
   4. Gaussian Blur: Applies Gaussian blur to the image.
   5. Edge Detection: Performs edge detection on the image.
   6. Smoothing: Applies a median blur to the image.
+
     To apply a filter, click on the respective button after selecting or capturing an image. The processed image will be displayed in the application window.
 
-# Acknowledgments
-    This application utilizes the capabilities of OpenCV, tkinter, and PIL libraries to provide an interactive image processing experience.
+
 
 
