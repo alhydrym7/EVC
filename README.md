@@ -1,4 +1,4 @@
-# image_processing_app
+# Image Processing App
 
 https://github.com/alhydrym7/EVC_with_Open-cv/assets/50909741/0029f825-1b63-4874-9faf-30896ff36b6f
 
